@@ -2,6 +2,7 @@
 Publicly available implementations of several temporal graphical models. It currently have the following models.
 
 *HMM
+
 hmmFit.m to fit hmm on your data
 
 hmmDemo.m to run a demo of hmm
