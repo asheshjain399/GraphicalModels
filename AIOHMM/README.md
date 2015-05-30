@@ -1,8 +1,8 @@
 # GraphicalModels
 Publicly available implementations of several temporal graphical models. It currently have the following models.
 
-1. HMM
+*AIOHMM
 
-2. IOHMM
+This is implementation of the AIOHMM (Jain et al.) http://arxiv.org/abs/1504.02789
 
-3. AIOHMM
+AIOhmmFit.m to fit AIOHMM on your data
