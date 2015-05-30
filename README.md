@@ -3,4 +3,5 @@ Publicly available implementations of several temporal graphical models. It curr
 
 *HMM
 
+*IOHMM
 
